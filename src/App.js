@@ -1,6 +1,5 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
-import { config } from './config';
 
 const Home = () => {
   const [poem, setPoem] = useState(null);
