@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/manlypoem/static/css/main.4d5f49c1.css",
-    "main.js": "/manlypoem/static/js/main.3b7ecbd1.js",
+    "main.js": "/manlypoem/static/js/main.b669063a.js",
     "static/js/453.ed3810f9.chunk.js": "/manlypoem/static/js/453.ed3810f9.chunk.js",
     "index.html": "/manlypoem/index.html",
     "main.4d5f49c1.css.map": "/manlypoem/static/css/main.4d5f49c1.css.map",
-    "main.3b7ecbd1.js.map": "/manlypoem/static/js/main.3b7ecbd1.js.map",
+    "main.b669063a.js.map": "/manlypoem/static/js/main.b669063a.js.map",
     "453.ed3810f9.chunk.js.map": "/manlypoem/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d5f49c1.css",
-    "static/js/main.3b7ecbd1.js"
+    "static/js/main.b669063a.js"
   ]
 }
