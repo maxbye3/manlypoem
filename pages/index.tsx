@@ -33,7 +33,7 @@ const Home = () => {
     try {
       setLoading(true);
       setError(null);
-      console.log('API Key:', process.env.NEXT_PUBLIC_OPENAI_API_KEY);
+      console.log('API Key:', process.env.OPEN_AI);
       const response = await axios.post(
         'https://api.openai.com/v1/chat/completions',
         {
